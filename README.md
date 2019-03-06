@@ -1,1 +1,1 @@
-my feture branch is merged to master
+and my feture branch is merged to master
