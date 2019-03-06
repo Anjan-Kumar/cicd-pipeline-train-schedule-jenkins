@@ -1,2 +1,1 @@
-#Testing git merging
-#I am editing this file
+#Testing git merging. I am testing this file
