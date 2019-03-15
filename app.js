@@ -1,4 +1,4 @@
-//app.js for the application
+//From Hotfix feature to Master
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
