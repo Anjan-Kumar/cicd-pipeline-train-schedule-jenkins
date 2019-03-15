@@ -1,4 +1,4 @@
-//DocASAP git merge script
+//app.js for the application
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
