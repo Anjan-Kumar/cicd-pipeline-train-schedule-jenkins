@@ -1,4 +1,4 @@
-//From Hotfix to Master. Modified
+//From Master. Modified
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
